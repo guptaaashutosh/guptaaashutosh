@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aashutosh Gupta!  
-**💻 Software Engineer | 🚀 Golang Developer | ☁️ Cloud-Native & Microservices Enthusiast**
+**💻 Software Engineer | 🚀 Golang & Java Developer | ☁️ Cloud-Native & Microservices Enthusiast**
 
 🚀 Welcome to my GitHub!  
 I specialize in building **scalable backend systems** using Golang, with a strong focus on **concurrency**, **distributed architectures**, and **secure authentication workflows**. I am passionate about cloud-native technologies, API security, and designing performant microservices that power modern applications.
